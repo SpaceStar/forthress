@@ -1,10 +1,10 @@
 : cp
-	over count 0 do
+	over count 0 for
 		over c@
 		over c!
 		swap 1 +
 		swap 1 +
-	loop
+	endfor
 	0 over c!
 	swap drop
 ;
