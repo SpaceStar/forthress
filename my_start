@@ -1,0 +1,1 @@
+cat my/odd.frt my/prim.frt my/save.frt my/concat.frt my/sirakuz.frt - | ./start
